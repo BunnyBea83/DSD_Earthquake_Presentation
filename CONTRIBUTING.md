@@ -3,36 +3,51 @@
 ## Elton
 
 - EDA
-  - Get histograms of numeric columns
+  - Histograms for latitude
 - Data Cleaning and Transformation
-  - Correct data dtype issues
+  - Correct data dtype issues for country
 - Data Joining
-  - Merging two or more dataframes on a column
+  - Create concat with latitude, longitude
 - Data Viualization
-  - Answering analytical questions with visuals
+  - Compare latitude and sig
 - Aggregation and Grouping Operations
-  - Modifying the graph to communicate findings
+  - TBD
 
 ## Bea
 
 - EDA
+  - Counts of alert levels. 
 - Data Cleaning and Transformation
+  - Modifying null values of alert levels
 - Data Joining
+  - Create concat with location, alert levels, depth and magnitude
 - Data Viualization
+  - What are alert levels based on region?
 - Aggregation and Grouping Operations
+  - TBD
 
 ## Joe
 
 - EDA
+  - Chart with correlationd between depth and magnitude
 - Data Cleaning and Transformation
+  - Drop country and continent columns
 - Data Joining
+  - Create concat with depth, magnitude, date/time
 - Data Viualization
+  - Chart showing correlation between nst (number of stations used to to determine location) and magnitude
 - Aggregation and Grouping Operations
+  - TBD
 
 ## Kainen
 
 - EDA
+  - 
 - Data Cleaning and Transformation
+  -
 - Data Joining
+  -
 - Data Viualization
+  -
 - Aggregation and Grouping Operations
+  -Grouping Operations
