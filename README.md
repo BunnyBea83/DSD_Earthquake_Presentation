@@ -5,7 +5,6 @@ Repo designed to hold and store development of earthquake research project
 ## Key Terms
 
 - NST (Number of Stations): The total number of seismic stations used to determine the earthquake's location (hypocenter). Generally, a higher number of stations leads to a more accurate calculation of where the earthquake started.
-
 - CDI (Community Internet Intensity Map): Also known as "Did You Feel It?" (DYFI). This value represents the maximum intensity reported by the public through online questionnaires. Unlike instrumental data, this is based on human observation and subjective experience.
 - MMI (Modified Mercalli Intensity): The maximum estimated or measured intensity at the epicenter. While magnitude measures the energy released (size), MMI measures the shaking effects at a specific location. It ranges from I (not felt) to XII (total destruction).
 - Alert: A color-coded flag from the PAGER (Prompt Assessment of Global Earthquakes for Response) system. It estimates the severity of the impact based on population exposure:
