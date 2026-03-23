@@ -5,13 +5,13 @@
 - EDA
   - Histograms for latitude
 - Data Cleaning and Transformation
-  - Correct data dtype issues for country
+  - Filling null values for country
 - Data Joining
   - Create concat with latitude, longitude
-- Data Viualization
-  - Compare latitude and sig
+- Data Visualization
+  - Compare country and sig
 - Aggregation and Grouping Operations
-  - TBD
+  - Country -> Sig, Sig -> Country
 
 ## Bea
 
