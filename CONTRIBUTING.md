@@ -3,15 +3,16 @@
 ## Elton
 
 - EDA
-  - Histograms for latitude
+  - Histograms for latitude  # Done
 - Data Cleaning and Transformation
-  - Filling null values for country
+  - Filling null values for country  # Done
+  - Filling continent values from country codes  # Done
 - Data Joining
-  - Create concat with latitude, longitude
+  - Create concat with latitude, longitude  
 - Data Visualization
-  - Compare country and sig
+  - Compare country and sig  # Done
 - Aggregation and Grouping Operations
-  - Country -> Sig, Sig -> Country
+  - Grouping was done for Data Visualization step  # Done
 
 ## Bea
 
