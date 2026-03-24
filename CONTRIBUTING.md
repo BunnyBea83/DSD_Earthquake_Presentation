@@ -18,14 +18,17 @@
 
 - EDA
   - Counts of alert levels.
+  - Averages of earthquake statistics.
+  - Counts of all null values
 - Data Cleaning and Transformation
   - Modifying null values of alert levels
 - Data Joining
+  - Concatinated both earthquake datasets
   - Create concat with location, alert levels, depth and magnitude
 - Data Viualization
-  - What are alert levels based on region?
+  - What are alert levels based on region? Used a stacked bar chart
 - Aggregation and Grouping Operations
-  - TBD
+  - Counts of alert levels grouped by continent
 
 ## Joe
 
@@ -52,3 +55,8 @@
   -
 - Aggregation and Grouping Operations
   -Grouping Operations
+
+## Additional Contributions
+
+- Construction of [CONTRIBUTING.md](CONTRIBUTING.md): Elton and Joe 
+- Construction of [READ.md](READ.md): Bea and Elton

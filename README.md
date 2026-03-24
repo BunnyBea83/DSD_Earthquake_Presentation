@@ -1,8 +1,23 @@
-# DSD_Earthquake_Presentation
+# Data Science Development - Earthquake Presentation
 
-Repo designed to hold and store development of earthquake research project
+**Course:** AD450 H11C 31420 — Data Science Development
+**Instructor:** Ix Procopios   
+**Authors:** Bea Sauve, Elton Nichols, Joe Klinck, Kainen Osborne
+**Date:** March 2026
 
-## Key Terms
+---
+
+## Overview
+
+This repo was designed to hold and store development of earthquake research project. 
+All observations, data refinement, and alayses are conducted on [this](https://www.kaggle.com/datasets/warcoder/earthquake-dataset?select=earthquake_data.csv) dataset, aquired from Kaggle.com.
+
+### About the Data Set
+
+- [Link](https://www.kaggle.com/datasets/warcoder/earthquake-dataset?select=earthquake_data.csv) to original data set.   
+- Original CSV files and combined CSV files are located in the `data` folder. 
+
+#### Earthquake Key Terms
 
 - NST (Number of Stations): The total number of seismic stations used to determine the earthquake's location (hypocenter). Generally, a higher number of stations leads to a more accurate calculation of where the earthquake started.
 - CDI (Community Internet Intensity Map): Also known as "Did You Feel It?" (DYFI). This value represents the maximum intensity reported by the public through online questionnaires. Unlike instrumental data, this is based on human observation and subjective experience.
@@ -23,3 +38,58 @@ Repo designed to hold and store development of earthquake research project
   - ml: Local Magnitude (the original "Richter" scale, used for smaller, local events).
   - mb: Body-wave Magnitude.
   - md: Duration Magnitude (determined by how long the shaking lasts on the seismogram).
+
+---
+
+## Repository Structure
+
+```
+Project_3_Analysis_Profit_Forecasting/
+├── data/
+│   ├── earthquake_1995-2023.csv         # Data set of earthquake data from 1995-2023
+│   ├── earthquake_data.csv              # Data set of earthquake data from 2001-2023
+│   └── merged_earthquake_data.csv       # Combined data sets
+├── Notebooks/
+│   ├── Bea_Visualization.twbx           # Bea's visualizations
+│   ├── Bea.ipynb                        # Bea's visualizations
+│   ├── elton.ipynb                      # Elton's visualizations
+│   ├── joe.ipynb                        # Joe's visualizations
+│   ├── Kainen_Visualization.twbx        # Kainen's visualizations
+│   ├── Kaninen.ipynb                    # Kainen's visualizations
+│
+├── README.md                               # Project overview (this file)
+└── CONTRIBUTING.md                         # Contribution guidelines and team roles
+```
+
+---
+
+## Use of Repository
+
+* Student Contrubutions:
+  * To observe contributions performed by by a specific student, access their respective Jupyter Notebook or file containg their name.  
+  * Additional contrubutions may be observed in the [CONTRIBUTING.md](CONTRIBUTING.md)
+
+* Access Data Sets
+  * All raw and modified CSV files may be accessed in the data folder
+
+* Review Team Presentation
+  * The Slide Deck, [insert slide name]() , contains the final presentation of the teams analysis on Earthquakes
+  * Access the slide deck to observe our presentation
+
+---
+## Team
+
+| Name | Username |
+|------|------|
+| Bea Sauve | bunnybea83 |
+| Elton Nichols | oi12bu |
+| Joe Klinck | jklinck |
+| Kainen Osborne | kosborne00 |
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for a full breakdown of individual contributions.
+
+---
+
+## License
+
+This project was produced for academic purposes as part of AD_450 at [North Seattle Community College]. Not intended for commercial use.
