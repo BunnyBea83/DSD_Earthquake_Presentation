@@ -60,3 +60,8 @@
 
 - Construction of [CONTRIBUTING.md](CONTRIBUTING.md): Elton and Joe 
 - Construction of [READ.md](READ.md): Bea and Elton
+* Presentation Slides:
+        Bea: (1-4,7-8,12-13)
+        Elton:(6,9)
+        Joe:(5)
+        Kainen: (3,10-11)
