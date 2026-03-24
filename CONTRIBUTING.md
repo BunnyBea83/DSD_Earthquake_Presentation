@@ -3,21 +3,21 @@
 ## Elton
 
 - EDA
-  - Histograms for latitude  # Done
+  - Histograms for latitude
 - Data Cleaning and Transformation
-  - Filling null values for country  # Done
-  - Filling continent values from country codes  # Done
+  - Filling null values for country
+  - Filling continent values from country codes
 - Data Joining
-  - Create concat with latitude, longitude  
+  - Merged both dataframes together into one
 - Data Visualization
-  - Compare country and sig  # Done
+  - Compare country and sig
 - Aggregation and Grouping Operations
-  - Grouping was done for Data Visualization step  # Done
+  - Grouping was done for Data Visualization step
 
 ## Bea
 
 - EDA
-  - Counts of alert levels. 
+  - Counts of alert levels.
 - Data Cleaning and Transformation
   - Modifying null values of alert levels
 - Data Joining
