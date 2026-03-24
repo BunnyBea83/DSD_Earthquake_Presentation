@@ -49,6 +49,13 @@ Project_3_Analysis_Profit_Forecasting/
 │   ├── earthquake_1995-2023.csv         # Data set of earthquake data from 1995-2023
 │   ├── earthquake_data.csv              # Data set of earthquake data from 2001-2023
 │   └── merged_earthquake_data.csv       # Combined data sets
+├── Notebooks/
+│   ├── Bea_Visualization.twbx           # Bea's visualizations
+│   ├── Bea.ipynb                        # Bea's visualizations
+│   ├── elton.ipynb                      # Elton's visualizations
+│   ├── joe.ipynb                        # Joe's visualizations
+│   ├── Kainen_Visualization.twbx        # Kainen's visualizations
+│   ├── Kaninen.ipynb                    # Kainen's visualizations
 │
 ├── README.md                               # Project overview (this file)
 └── CONTRIBUTING.md                         # Contribution guidelines and team roles
