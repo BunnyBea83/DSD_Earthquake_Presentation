@@ -45,16 +45,27 @@
 
 ## Kainen
 
-- EDA
-  - 
-- Data Cleaning and Transformation
-  -
-- Data Joining
-  -
-- Data Viualization
-  -
-- Aggregation and Grouping Operations
-  -Grouping Operations
+EDA:
+Correlation heatmap of all numeric columns to identify relationships
+
+Data Cleaning and Transformation:
+Added a new derivative magnitude category column bucketing magnitude values into various tiers
+
+Data Joining:
+Concatenated cdi, mmi, tsunami, and sig into a focused seismic impact dataframe
+
+Data Visualization:
+Seasonal patterns in earthquake activity by month showing count and average magnitude
+Tsunami impact comparison showing CDI, MMI, and significance scores between tsunami and non-tsunami events
+Tsunami risk by magnitude category showing number of tsunamis per severity tier with occurrence rate
+
+
+Aggregation and Grouping Operations
+
+Pivot table of mean magnitude and mean depth broken down by magnitude category and alert level
+Aggregated CDI and MMI grouped by tsunami flag to compare felt vs measured intensity
+Counted earthquake frequency and average magnitude grouped by month for seasonal analysis
+Summarized seismic impact metrics comparing tsunami vs non-tsunami events across CDI, MMI, and sig
 
 ## Additional Contributions
 
