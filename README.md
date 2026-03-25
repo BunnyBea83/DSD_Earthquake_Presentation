@@ -57,8 +57,9 @@ Project_3_Analysis_Profit_Forecasting/
 │   ├── Kainen_Visualization.twbx        # Kainen's visualizations
 │   ├── Kaninen.ipynb                    # Kainen's visualizations
 │
-├── README.md                               # Project overview (this file)
-└── CONTRIBUTING.md                         # Contribution guidelines and team roles
+├── AD450 Eathquake Presentation         # Presentation wrapping up the whole project
+├── README.md                            # Project overview (this file)
+└── CONTRIBUTING.md                      # Contribution guidelines and team roles
 ```
 
 ---
