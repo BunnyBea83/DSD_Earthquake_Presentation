@@ -68,13 +68,15 @@ Project_3_Analysis_Profit_Forecasting/
 
 * Student Contrubutions:
   * To observe contributions performed by by a specific student, access their respective Jupyter Notebook or file containg their name.  
+    * Use VS Code or preferred IDE to access Jupyter Notebooks
+    * Use Tableau to access .twbx files
   * Additional contrubutions may be observed in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 * Access Data Sets
   * All raw and modified CSV files may be accessed in the data folder
 
 * Review Team Presentation
-  * The Slide Deck, [insert slide name]() , contains the final presentation of the teams analysis on Earthquakes
+  * The Slide Deck, [Earthquake Presentation](AD450_Earthquake_Presentation.pdf) , contains the final presentation of the teams analysis on Earthquakes
   * Access the slide deck to observe our presentation
 
 ---
